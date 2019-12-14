@@ -1,0 +1,49 @@
+
+Python Basics:
+===============
+
+Applications of Python:
+=======================
+1. Web Applications
+2. Desktop Applications
+3. Mobile Applications
+4. Scientific Applications
+
+
+APSSDC_IVC_batch-2 -> Folder name in desktop
+
+
+Editors:
+========
+	Notepad -> By default in windows operating system
+	gedit -> By default in Linux operating system
+	
+Advance Editors:(Thirdparty packages):
+======================================
+	Geany,Notepad++,sublime,atom,editplus etc.,
+
+Software to run python files:
+=================================
+	Steps to Download python software:
+	----------------------------------
+	Link: https://python.org
+		-> downloads
+		-> windows
+		-> select the version you want to download
+		-> In that prefer to download the executable file which is either a 32 bit or 64 bit based on your requirement
+
+Check whether the python is installed or not?
+=============================================
+	-> open run and type cmd to open the command prompt
+	-> In command prompt type "python --version" or "python -V"
+	-> It displays the installed python version
+
+Shortcut for hide/Unhide file or folder or drive:
+=================================================
+	alt + v + h (2 times tap) -> to hide or unhide the folder
+
+
+
+Site URL:
+==========
+	https://bit.ly/GOVPFDP2
